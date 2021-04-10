@@ -1,0 +1,2 @@
+# resolutewordpresstask.io
+firsttask
